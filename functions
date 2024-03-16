@@ -1,0 +1,14 @@
+
+=AVERAGE($Data.N12:N1480)
+
+=MAX($Data.L11:L1480)
+
+=AVERAGE($Data.U11:U1480)
+=MAX($Data.P11:P1480)
+
+=AVERAGE($Data.K11:K1480)
+
+=COUNTIF(B11:B1480;"Yes")
+
+=COUNTIF($Data.$D$11:$D$1480,"Research & Development")
+=COUNTIF($Data.$D$11:$D$1480,"Human Resources")
